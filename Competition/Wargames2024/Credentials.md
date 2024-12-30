@@ -1,6 +1,6 @@
 ![images](https://github.com/QadqadK/ctf-writeups/blob/356913384392cdee8548036bacc008aa05a28f11/Competition/Wargames2024/images/credQuest.png)
 
-##WGMY{b6d180d9c302d8a8daad1f2174a0b212}
+## WGMY{b6d180d9c302d8a8daad1f2174a0b212}
 
 This challenge provided two files, passwd.txt and user.txt which are in Leak_staff.rar file.
 
